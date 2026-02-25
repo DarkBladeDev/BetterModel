@@ -57,6 +57,9 @@ include(
     "nms:v1_21_R6",
     "nms:v1_21_R7",
 
+    //standalone
+    "standalone:blockbench",
+
     //test
     "test-plugin"
 )
