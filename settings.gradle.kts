@@ -59,6 +59,7 @@ include(
 
     //standalone
     "standalone:blockbench",
+    "standalone:resourcepack",
 
     //test
     "test-plugin"
